@@ -6,4 +6,4 @@ leaving formatting and sentence structures in place.
 
 Example:
 
-	http://erase.net/labs/a-z/
+[http://erase.net/labs/a-z/](http://erase.net/labs/a-z/)
